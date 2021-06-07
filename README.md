@@ -1,4 +1,4 @@
-## ShopBridge-CodeFirstApproach (DOT NET Backend Developer Codeing Assesment).
+## ShopBridge-CodeFirstApproach (DOT NET Backend Developer Coding Assesment).
 
 This repository contains the code for ShopBridge-CodeFirstApproach (DOT NET Backend Developer Codeing Assesment) ASP.NET Core in Action.
 
